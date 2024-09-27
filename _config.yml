@@ -15,7 +15,8 @@ description: Project to practice web development inspired by ASU's PAF514 course
 author: Corina Tapscott
 
 # Define site URL
-url: https://ctnovoa.github.io/PAF514Lab05/
+url: https://ctnovoa.github.io
+baseurl: /PAF514Lab05
 
 # --- List of links in the navigation bar --- #
 
